@@ -1,1 +1,2 @@
-console.log('test different libs')
+
+console.log('test conflicts')
