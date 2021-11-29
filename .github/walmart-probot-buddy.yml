@@ -6,5 +6,7 @@ enabled_features:
   - stalebot
   - merge-queue
   - stale-branch-bot
+  - sync-base-branch
 merge_user: Diksha Agarwal
 add_pr_label: allowRetry
+is_nx_repo: true
