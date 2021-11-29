@@ -1,1 +1,1 @@
-console.log('test common lib--')
+console.log('test common lib-')
