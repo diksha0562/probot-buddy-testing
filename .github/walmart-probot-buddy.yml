@@ -9,6 +9,3 @@ enabled_features:
   - sync-base-branch
 merge_user: d0a05sx
 add_pr_label: allowRetry
-sync_base_branch_on_changed_files_intersect: 
- - "^libs\/.*\/src\/"
- - "^apps\/.*\/app\/"
