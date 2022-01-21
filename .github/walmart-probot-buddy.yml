@@ -7,5 +7,5 @@ enabled_features:
   - merge-queue
   - stale-branch-bot
   - sync-base-branch
-merge_user: d0a05sx
+merge_user: Diksha Agarwal
 add_pr_label: allowRetry
