@@ -1,1 +1,2 @@
-console.log('changes in test2--')
+
+console.log('test conflicts')
