@@ -1,5 +1,5 @@
 var myFunc = () =>{
-	var a = 2;
+	var a = 3;
 	return a;
 };
 
