@@ -1,6 +1,8 @@
 var myFunc = () =>{
-	var a = 2;
-	return a;
+	var obj = {
+		b:2
+	}
+	return obj;
 };
 
 module.exports =  myFunc;
