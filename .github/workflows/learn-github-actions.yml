@@ -70,4 +70,5 @@ jobs:
       - run: npm install -g p-limit
       - run: npm install -g redux
       - run: npm install -g puppeteer
+      - run: node test-ci.js 
       - run: npm install -g @angular/material
