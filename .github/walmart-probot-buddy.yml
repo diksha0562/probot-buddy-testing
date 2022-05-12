@@ -4,9 +4,9 @@ enabled_features:
   - bot-pr-merge
   - semantic-pull-requests
   - stalebot
-  - merge-queue
   - stale-branch-bot
   - sync-base-branch
   - non-optimistic-merge
+  - non-optimistic-merge-queue
 merge_user: Diksha Agarwal
 add_pr_label: allowRetry
