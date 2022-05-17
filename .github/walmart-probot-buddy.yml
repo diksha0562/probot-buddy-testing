@@ -6,6 +6,6 @@ enabled_features:
   - stalebot
   - stale-branch-bot
   - sync-base-branch
-  - merge-queue
+  - non-optimistic-merge-queue
 merge_user: Diksha Agarwal
 add_pr_label: allowRetry
