@@ -1,2 +1,2 @@
 
-console.log('test conflicts ------')
+console.log('test conflicts -------')
