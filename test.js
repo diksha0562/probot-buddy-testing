@@ -6,4 +6,6 @@ var myFunc = () =>{
 	return obj;
 };
 
+console.log('a')
+
 module.exports =  myFunc;
